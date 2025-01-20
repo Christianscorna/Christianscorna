@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **extensions projects**
 
-- 👨‍💻 I don't have a portfolio yet but Im working in one (My portfolio is comming soon!)
+- 👨‍💻 I don't have a portfolio yet but Im working in one (My portfolio is coming soon!)
 
 - 💬 Ask me about **Angular, SQL, JavaScript, Java and more**
 
